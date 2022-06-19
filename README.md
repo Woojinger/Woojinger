@@ -1,15 +1,15 @@
-### Current Working on
+### 🔭 Current Working on
 - Search CIC, Naver Corp
 - Decipher, SNU Blockchain Academy
 
-### I work with
+### 📫 I work with
 - Golang
 
-### What I'm studying now is
+### 🌱 What I'm currently learning now is
 - Rust
 - Blockchain ex) Cosmos blockchain
 
-### How to reach me
+### 💬 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/%EC%9A%B0%EC%A7%84-%EC%8B%A0-591027206/)
 - [Email](tlsdnwls1253@gmail.com)
 <!--
