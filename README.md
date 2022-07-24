@@ -7,7 +7,8 @@
 
 ### 🌱 What I'm currently learning now is
 - Rust
-- Blockchain ex) Cosmos blockchain
+- Blockchain
+  - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
 
 ### 💬 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/%EC%9A%B0%EC%A7%84-%EC%8B%A0-591027206/)
