@@ -9,6 +9,7 @@
 - Rust
 - Blockchain
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
+  - try to contribute interchain query to Cosmos. [Link](https://github.com/decipherhub/interchain-queries)
 
 ### 💬 How to reach me
 - Email: tlsdnwls1253@gmail.com
