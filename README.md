@@ -11,6 +11,10 @@
   - try to contribute interchain query to Cosmos. [Link](https://github.com/decipherhub/interchain-queries)
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
 
+### 📫 Blog
+- Blockchain: [Link](https://medium.com/@tlsdnwls1253)
+- Coding: [Link](https://woojinger.tistory.com/)
+
 ### 💬 How to reach me
 - Email: tlsdnwls1253@gmail.com
 <!--
