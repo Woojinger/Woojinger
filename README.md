@@ -12,7 +12,7 @@
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
 
 ### 📫 Blog
-- Blog: [Link](https://www.pangyoalto.com/)
+- Blog: [Link](https://pangyoalto.com)
 - Medium: [Link](https://medium.com/@tlsdnwls1253)
 
 ### 💬 How to reach me
