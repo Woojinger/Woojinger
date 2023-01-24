@@ -4,11 +4,13 @@
 
 ### 📫 I work with
 - Golang
+- Implementing Search Engine
 
 ### 🌱 What I'm currently learning now is
+- Kubernetes
 - Rust
 - Blockchain
-  - try to contribute interchain query to Cosmos. [Link](https://github.com/decipherhub/interchain-queries)
+  - try contributing interchain query to Cosmos(But failed 😅). [Link](https://github.com/decipherhub/interchain-queries)
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
 
 ### 📫 Blog
