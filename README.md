@@ -10,7 +10,8 @@
 - Kubernetes
 - Rust
 - Blockchain
-  - try contributing interchain query to Cosmos(But failed 😅). [Link](https://github.com/decipherhub/interchain-queries)
+  - try contributing interchain query to Cosmos [Link](https://github.com/decipherhub/interchain-queries)
+    - We didn't succeed in all of our goals, but some of them [Link](https://github.com/informalsystems/hermes/pull/2915)
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
 
 ### 📫 Blog
