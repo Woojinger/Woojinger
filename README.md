@@ -10,9 +10,11 @@
 - Kubernetes
 - Rust
 - Blockchain
-  - try contributing interchain query to Cosmos [Link](https://github.com/decipherhub/interchain-queries)
+  - contribute interchain query to Cosmos [Link](https://github.com/decipherhub/interchain-queries)
     - We didn't succeed in all of our goals, but some of them [Link](https://github.com/informalsystems/hermes/pull/2915)
   - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
+  - receive Honorable Mention for Best Move Track at Aptos Seoul Hack as Team Clank. [Link](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023)
+    - [Clank](https://github.com/team-clank/crossfader)
 
 ### 📫 Blog
 - Blog: [Link](https://pangyoalto.com)
