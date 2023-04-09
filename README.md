@@ -5,6 +5,7 @@
 ### 📫 I work with
 - Golang
 - Implementing Search Engine
+  - [Deview 2023](https://tv.naver.com/v/33919079)
 
 ### 🌱 What I'm currently learning now is
 - Kubernetes
