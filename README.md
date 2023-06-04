@@ -11,15 +11,15 @@
 - Kubernetes
   - [CKA](https://www.credly.com/earner/earned/badge/22d28113-a066-48a7-91bd-84747ab9f514)
 - Blockchain
-  - contribute interchain query to Cosmos [Link](https://github.com/decipherhub/interchain-queries)
-    - We didn't succeed in all of our goals, but some of them [Link](https://github.com/informalsystems/hermes/pull/2915)
-  - translate Cosmwasm Docs in English into Korean. [Link](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
-  - receive Honorable Mention at Aptos Seoul Hack. [Link](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023)
+  - [contribute interchain query to Cosmos](https://github.com/decipherhub/interchain-queries)
+    - We didn't succeed in all of our goals, but [some of them](https://github.com/informalsystems/hermes/pull/2915)
+  - [translate Cosmwasm Docs in English into Korean](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
+  - [receive Honorable Mention at Aptos Seoul Hack](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023)
     - [Clank](https://github.com/team-clank/crossfader)
 
 ### 📫 Blog
-- Blog: [Link](https://pangyoalto.com)
-- Medium: [Link](https://medium.com/@tlsdnwls1253)
+- [Blog](https://pangyoalto.com)
+- [Medium](https://medium.com/@tlsdnwls1253)
 
 ### 🌱 What I'm currently intrested in
 - Rust
