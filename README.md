@@ -7,9 +7,12 @@
 - Implementing Search Engine
   - [Deview 2023](https://tv.naver.com/v/33919079)
 
-### 🌱 What I'm currently learning now is
-- Kubernetes
+### 🌱 What I'm currently intrested in
 - Rust
+
+### 📔 Skills
+- Kubernetes
+  - [CKA](https://www.credly.com/earner/earned/badge/22d28113-a066-48a7-91bd-84747ab9f514)
 - Blockchain
   - contribute interchain query to Cosmos [Link](https://github.com/decipherhub/interchain-queries)
     - We didn't succeed in all of our goals, but some of them [Link](https://github.com/informalsystems/hermes/pull/2915)
