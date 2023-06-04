@@ -3,14 +3,11 @@
 - Decipher, SNU Blockchain Academy
 
 ### 📫 I work with
-- Golang
 - Implementing Search Engine
   - [Deview 2023](https://tv.naver.com/v/33919079)
 
-### 🌱 What I'm currently intrested in
-- Rust
-
 ### 📔 Skills
+- Golang
 - Kubernetes
   - [CKA](https://www.credly.com/earner/earned/badge/22d28113-a066-48a7-91bd-84747ab9f514)
 - Blockchain
@@ -23,6 +20,9 @@
 ### 📫 Blog
 - Blog: [Link](https://pangyoalto.com)
 - Medium: [Link](https://medium.com/@tlsdnwls1253)
+
+### 🌱 What I'm currently intrested in
+- Rust
 
 ### 💬 How to reach me
 - Email: tlsdnwls1253@gmail.com
