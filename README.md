@@ -1,6 +1,5 @@
 ### 🔭 Current Working on
 - Search CIC, Naver Corp
-- Decipher, SNU Blockchain Academy
 
 ### 📫 I work with
 - Implementing Search Engine
