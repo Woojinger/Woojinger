@@ -1,8 +1,6 @@
 ### 🔭 Current Working on
 - Search CIC, Naver Corp
-
-### 📫 I work with
-- Implementing Search Engine
+  - Implementing Search Engine
   - [Deview 2023](https://tv.naver.com/v/33919079)
 
 ### 📔 Skills
@@ -19,9 +17,6 @@
 ### 📫 Blog
 - [Blog](https://pangyoalto.com)
 - [Medium](https://medium.com/@tlsdnwls1253)
-
-### 🌱 What I'm currently intrested in
-- Rust
 
 ### 💬 How to reach me
 - Email: tlsdnwls1253@gmail.com
