@@ -1,18 +1,12 @@
 ### 🔭 Current Working on
-- Search CIC, Naver Corp
-  - Implementing Search Engine
-  - [Deview 2023](https://tv.naver.com/v/33919079)
-
-### 📔 Skills
-- Golang
-- Kubernetes
-  - [CKA](https://www.credly.com/earner/earned/badge/22d28113-a066-48a7-91bd-84747ab9f514)
-- Blockchain
-  - [contribute interchain query to Cosmos](https://github.com/decipherhub/interchain-queries)
-    - We didn't succeed in all of our goals, but [some of them](https://github.com/informalsystems/hermes/pull/2915)
-  - [translate Cosmwasm Docs in English into Korean](https://hs-jang.gitbook.io/cosmwasm-docs-1.0/)
-  - [receive Honorable Mention at Aptos Seoul Hack](https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023)
-    - [Clank](https://github.com/team-clank/crossfader)
+- Search CIC, Naver Corp (2021~)
+  - Implementing Search Engine Noir
+    - [Deview 2023](https://tv.naver.com/v/33919079)
+  - Post articles on Naver Tech Blog
+    - [Applying Profiling - Your Go Application Can Do Better (2024)](https://d2.naver.com/helloworld/8404108)
+      - [English translation](https://pangyoalto.com/en/profiling-your-go-application/)
+    - [Don't trust Go GC too much - detecting memory leaks and managing GC cycles (2025)]( https://d2.naver.com/helloworld/5316262)
+      - [English translation](https://pangyoalto.com/en/go-gc-memory-leak/)
 
 ### 📫 Blog
 - [Blog](https://pangyoalto.com)
